@@ -9,6 +9,6 @@ yatoiが今抱えている問題はここからIssuesと[ここ](01problem.md)�
 
 ## Gitチュートリアル
 
-[ここからチュートリアルに飛べるよ！](.//Git%26GitHub/tutorial.md)
+[ここからチュートリアルに飛べるよ！](./Git%26GitHub/README.md)
 
 最終更新日2022/05/22/14:42
